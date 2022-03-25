@@ -1,0 +1,6 @@
+{
+  "ignoreTestFiles": "*.js",
+  "baseUrl":"https://google.com",
+  "testFiles": "**/*.{feature,features}",
+  "defaultCommandTimeout": 6000
+}
